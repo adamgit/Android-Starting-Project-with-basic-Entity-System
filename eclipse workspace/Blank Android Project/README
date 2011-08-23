@@ -1,0 +1,9 @@
+You need to add the Entity System project - synched separately from github.
+
+1. git pull this repository:https://github.com/adamgit/Entity-System-RDBMS-Beta--Java-
+2. Open this workspace in Eclipse (it will have errors, because of the missing sub-project)
+3. In Eclipse, do "Import... existing project"
+4. Select the "EntitySystemsJava" subfolder that you just pulled in git
+5. Wait a few seconds for Eclipse to re-build everything automatically
+
+The compiler errors should all disappear, as it hooks up the two projects...
