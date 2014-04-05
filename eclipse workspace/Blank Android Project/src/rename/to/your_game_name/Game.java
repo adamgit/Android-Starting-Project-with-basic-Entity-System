@@ -2,7 +2,7 @@ package rename.to.your_game_name;
 
 import java.util.*;
 
-import org.tmachine.games.escapefromthepit.Components.Position;
+import com.wikidot.entitysystems.rdbmsbeta.examplecomponents.Position;
 
 import com.wikidot.entitysystems.rdbmsbeta.*;
 
