@@ -1,4 +1,4 @@
-package rename.this.to.your-game-name;
+package rename.to.your_game_name;
 
 import java.util.*;
 
