@@ -30,7 +30,7 @@ public class MainRunThread extends Thread implements iRunThread
 	 * @param esmc
 	 * @param v
 	 */
-	public MainRunThread( Activity a, EntityManager esmc, SurfaceViewThePit v )
+	public MainRunThread( Activity a, EntityManager esmc, SurfaceViewBlankAndroidProject v )
 	{
 		parentActivity = a;
 		es = esmc;
